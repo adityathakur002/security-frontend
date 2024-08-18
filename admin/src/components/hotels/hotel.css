@@ -1,0 +1,25 @@
+.lContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+
+.lInput{
+    font-size: large;
+    width: 400px;
+    height: 20px;
+}
+
+.lButton{
+    border: none;
+    padding: 10px 20px;
+    background-color: #0071c2;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 25%;
+}

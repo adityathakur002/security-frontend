@@ -1,0 +1,45 @@
+.lContainer{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+.logspan{
+    color: red;
+    justify-content: center;
+    align-items: center;
+}
+.lInput{
+    font-size: large;
+}
+.loginText{
+    font-size: large;
+}
+.lButton{
+    border: none;
+    padding: 10px 20px;
+    background-color: #0071c2;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.lInput {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.3s;
+  }
+  
+  .lInput:focus {
+    border: 2px solid dodgerblue;
+  }
+
+  
